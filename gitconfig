@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = david.haffner06@gmail.com
+	name = davidhaffner
