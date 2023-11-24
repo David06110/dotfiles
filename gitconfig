@@ -51,6 +51,6 @@
   rebase = false
 [user]
 	email = d.haffner06@gmail.com
-	name = david haffner
+	name = David Haffner
 [cola]
 	spellcheck = false
